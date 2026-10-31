@@ -12,7 +12,7 @@ make sure to download NuclearThroneUltraMod_29_0.120.zip.
 	2. Select Manage > Browse local files.
 
 2. Download the Co-op Mod File
-• Download the custom coop file here: Download NTUM Co-op data.win.
+• Download the custom coop file here: [Download NTUM Co-op data.win](https://github.com/immortalCoop/NTUM-Coop/releases/tag/v.29.120)
 
 3. Replace the Original File
 • Go inside your game folder and locate the original file named data.win.
